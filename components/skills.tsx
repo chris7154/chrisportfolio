@@ -4,7 +4,8 @@ import React from 'react'
 import SectionHeading from './section-heading'
 
 import {animate, motion} from 'framer-motion'
-import { skillsData } from '../lib/data';
+import { skillsData } from '@/app/lib/data';
+
 
 
 const fadeInAnimationVariants = {

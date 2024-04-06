@@ -2,7 +2,8 @@ import React from 'react'
 import SectionHeading from './section-heading'
 
 import Project from './project'
-import { projectsData } from '../lib/data'
+import { projectsData } from '@/app/lib/data'
+
 
 export default function Projects() {
   return (

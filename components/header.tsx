@@ -3,7 +3,8 @@
 import React, { useState } from 'react'
 import {motion} from "framer-motion"
 import Link from 'next/link'
-import { links } from '../lib/data'
+import { links } from '@/app/lib/data';
+
 
 
 
